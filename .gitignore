@@ -1,0 +1,20 @@
+#python
+__pycachr__/
+*.py[cod]
+*.egg_info/
+.venv/
+venv/
+
+#jupyter
+.ipynb_checkpoints/
+
+#vs code
+.vscode/
+
+#data
+data/*.json
+!data/competitions.json
+
+#os
+.DS_Store
+Thumbs.db
